@@ -1,0 +1,18 @@
+.navbar {
+    background-color: beige;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    
+  }
+  
+  .navbar-item {
+    margin-right: 10px;
+    cursor: pointer;
+  }
